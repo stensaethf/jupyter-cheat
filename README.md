@@ -1,1 +1,1 @@
-# jupyter-cheat
+# jupyter-shortcuts
