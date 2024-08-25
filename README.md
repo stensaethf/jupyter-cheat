@@ -1,13 +1,15 @@
 # jupyter-shortcuts
 
+**Note**:
+> Use Esc and Enter to switch between command mode and edit mode \
+> Command (⌘) instead of Ctrl for Mac
+
 ## Run cells
 | Command       | Description                    |
 |---------------|--------------------------------|
 | Shift + Enter | Run current cell, select below |
 | Ctrl + Enter  | Run selected cells             |
 | Alt + Enter   | Run current cell, insert below |
-
-> Use Esc and Enter to switch between command mode and edit mode
 
 ## Command mode
 | Command          | Description                |
