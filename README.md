@@ -1,7 +1,5 @@
 # jupyter-shortcuts
 
-> P | Open command palette
-
 ## Run cells
 | Command       | Description                    |
 |---------------|--------------------------------|
@@ -9,6 +7,7 @@
 | Ctrl + Enter  | Run selected cells             |
 | Alt + Enter   | Run current cell, insert below |
 
+> Use Esc and Enter to switch between command mode and edit mode
 
 ## Command mode
 | Command          | Description                |
@@ -21,6 +20,10 @@
 | Z                | Undo deletion              |
 | Y                | Cell type 'code'           |
 | M                | Cell type 'markdown'       |
+| p                | Open command palatte       |
 
 ## Edit mode
-xyz
+| Command          | Description          |
+|------------------|----------------------|
+| Shift + Tab      | Tooltip              |
+| Ctrl + Shift + P | Open command palatte |
